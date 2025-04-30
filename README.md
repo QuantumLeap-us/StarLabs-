@@ -1,7 +1,5 @@
 # StarLabs
 
-![StarLabs](public/logo.png)
-
 ## Description
 
 StarLabs is a comprehensive suite of blockchain and automation tools. This project includes wallet generators, proxy checkers, and various automation utilities designed for blockchain interaction and management.
@@ -70,11 +68,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Contact
-
-- Telegram: [StarLabsTech](https://t.me/StarLabsTech)
-- GitHub: [starlabs-tech](https://github.com/starlabs-tech)
 
 ## Disclaimer
 
